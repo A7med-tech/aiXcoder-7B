@@ -6,7 +6,7 @@ class SensitiveInforRM:
         def __init__(self, f, g):
             self.e = {}
             self.f = f
-            self.g = g
+            self.g = G
 
     def __init__(self):
         self.q = []
